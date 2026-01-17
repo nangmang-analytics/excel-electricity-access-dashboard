@@ -66,6 +66,19 @@ The dataset contains electricity access percentages across multiple countries an
 
 ---
 
+## Key Insights
+
+- Electricity access across selected countries reached or remained near 100% in the years analyzed (2000–2006).
+- The dashboard enables year-by-year comparison using an interactive slicer, making trend exploration intuitive.
+- Power Query was used to clean and standardize country names, year formats, and numeric values before analysis.
+- PivotTables and PivotCharts were leveraged to dynamically aggregate electricity access by country and year.
+- This approach demonstrates how Excel can be used for lightweight exploratory data analysis and dashboarding.
+
 ## 👤 Author
 **Nang Mang**  
 Aspiring Data Analyst  
+
+
+
+
+
